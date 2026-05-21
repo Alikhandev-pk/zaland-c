@@ -1,0 +1,44 @@
+[
+  {
+    "id": 101,
+    "title": "Velvet Matte Lipstick",
+    "category": "Cosmetics",
+    "originalPrice": 2500,
+    "discountPercentage": 10,
+    "price": 2250,
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=800&q=80&fm=webp"
+    ],
+    "description": "An ultra-creamy, highly pigmented lipstick that glides on smoothly and sets into a gorgeous, long-lasting velvet matte finish. Enriched with natural oils and Vitamin E to keep your lips hydrated and soft all day.",
+    "onSale": true
+  },
+  {
+    "id": 102,
+    "title": "Luminous Foundation",
+    "category": "Cosmetics",
+    "originalPrice": 4500,
+    "discountPercentage": 0,
+    "price": 4500,
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=800&q=80&fm=webp"
+    ],
+    "description": "Achieve a flawless, radiant complexion with this buildable, medium-coverage liquid foundation. Featuring light-reflecting pigments and a lightweight feel, it provides a natural dewy finish that lasts up to 16 hours.",
+    "onSale": false
+  },
+  {
+    "id": 103,
+    "title": "Rose Blush Palette",
+    "category": "Cosmetics",
+    "originalPrice": 3200,
+    "discountPercentage": 15,
+    "price": 2720,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&q=80&fm=webp"
+    ],
+    "description": "A stunning cheek palette containing four complementary blush shades ranging from soft rose to warm peach. The silky, micro-milled powders blend seamlessly into the skin for a beautiful, customizable flush of color.",
+    "onSale": true
+  }
+]

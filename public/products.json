@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Premium Silk Abaya",
+    "category": "Women",
+    "originalPrice": 8500,
+    "discountPercentage": 10,
+    "price": 7650,
+    "image": "https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?w=800&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1584916201218-f4242ceb4809?w=800&q=80&fm=webp"
+    ],
+    "description": "Crafted from exceptionally soft, premium pure silk, this classic abaya offers a graceful, flowing silhouette. Featuring subtle draped detailing and tailored cuffs, it is perfect for both daily wear and elegant evening occasions.",
+    "onSale": true
+  },
+  {
+    "id": 2,
+    "title": "Tailored Wool Coat",
+    "category": "Men",
+    "originalPrice": 24000,
+    "discountPercentage": 0,
+    "price": 24000,
+    "image": "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=800&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80&fm=webp"
+    ],
+    "description": "A sophisticated double-breasted coat made from a premium wool blend. Tailored for a modern, structured fit, it features notched lapels, deep welt pockets, and a luxurious inner lining. A timeless layering piece for winter.",
+    "onSale": false
+  },
+  {
+    "id": 3,
+    "title": "Pleated Chiffon Dress",
+    "category": "Women",
+    "originalPrice": 14500,
+    "discountPercentage": 10,
+    "price": 13050,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?w=800&q=80&fm=webp"
+    ],
+    "description": "Make an elegant statement in this flowing chiffon maxi dress. Detailed with delicate accordian pleats, a cinched waist, and a soft inner slip, it drapes beautifully and delivers comfort with every step.",
+    "onSale": true
+  },
+  {
+    "id": 4,
+    "title": "Cashmere Turtleneck",
+    "category": "Men",
+    "originalPrice": 8500,
+    "discountPercentage": 15,
+    "price": 7225,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=800&q=80&fm=webp"
+    ],
+    "description": "Knit from ultra-soft, grade-A pure Mongolian cashmere, this turtleneck sweater combines lightweight warmth with exceptional softness. Features ribbed hem and cuffs for a comfortable, snug fit.",
+    "onSale": true
+  },
+  {
+    "id": 5,
+    "title": "Structured Leather Tote",
+    "category": "Women",
+    "originalPrice": 12000,
+    "discountPercentage": 0,
+    "price": 12000,
+    "image": "https://images.unsplash.com/photo-1584916201218-f4242ceb4809?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1584916201218-f4242ceb4809?w=800&q=80&fm=webp"
+    ],
+    "description": "Crafted from fine full-grain textured leather, this structured tote features a roomy main compartment, multiple inner divider pockets, and sturdy top handles. A perfect accessory for work, travel, or upscale weekend outings.",
+    "onSale": false
+  },
+  {
+    "id": 6,
+    "title": "Classic Linen Suit",
+    "category": "Men",
+    "originalPrice": 32000,
+    "discountPercentage": 20,
+    "price": 25600,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=800&q=80&fm=webp"
+    ],
+    "description": "Tailored from highly breathable premium European linen, this matching summer suit features a relaxed two-button blazer and matching slim-cut trousers. Designed to keep you cool and sharp in warm climates.",
+    "onSale": true
+  },
+  {
+    "id": 7,
+    "title": "Luxury Organza Abaya",
+    "category": "Women",
+    "originalPrice": 16500,
+    "discountPercentage": 15,
+    "price": 14025,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=80&fm=webp",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?w=800&q=80&fm=webp"
+    ],
+    "description": "An exquisite layering piece made from lightweight shimmering organza. Accented with subtle embroidery, wide sleeves, and matching belt, this abaya brings an effortless touch of luxury and glamor to special events.",
+    "onSale": true
+  }
+]
