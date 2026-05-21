@@ -2,7 +2,7 @@
   "cleanUrls": true,
   "headers": [
     {
-      "source": "/(assets|public)/*",
+      "source": "/(assets|public)/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
